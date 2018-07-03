@@ -10,13 +10,11 @@
 - Create a new [Now](now.sh) account and obtain your `NOW_TOKEN`.
 - Create a new [Travis CI]() account and copy your `NOW_TOKEN` to your Travis CI project.
 - Install your dependencies:
-
 ```bash
 npm install
 ```
 
 - Start the server:
-
 ```bash
 npm run server
 ```
